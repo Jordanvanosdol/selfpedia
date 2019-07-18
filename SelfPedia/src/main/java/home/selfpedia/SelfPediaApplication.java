@@ -1,4 +1,4 @@
-package home.selfpedia.SelfPedia;
+package home.selfpedia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
